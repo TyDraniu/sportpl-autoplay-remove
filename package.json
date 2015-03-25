@@ -1,0 +1,13 @@
+{
+  "title": "Sport.pl autoplay remove",
+  "name": "sportplautoplayremove",
+  "id": "jid0-vQ0CrL15HjbA7bzTgJdBnVw5tiA@jetpack",
+  "version": "1.3.0",
+  "description": "",
+  "main": "index.js",
+  "author": "TyDraniu",
+  "engines": {
+    "firefox": ">=38.0a1"
+  },
+  "license": "MIT"
+}
