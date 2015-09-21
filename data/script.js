@@ -18,4 +18,8 @@ for (var i=0; i<ramki.length; i++) {
 		zrodloRamki += "?autoplay=false";
 		ramki[i].src = zrodloRamki;
 	}
+	else if (zrodloRamki.lastIndexOf(".html?") > 0) {
+		zrodloRamki += "&autoplay=false";
+		ramki[i].src = zrodloRamki;
+	}
 }
